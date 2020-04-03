@@ -43,6 +43,7 @@ Looking to get started with fish? [Try it in your browser](https://rootnroll.com
 - [jorgebucaran/nvm](https://github.com/jorgebucaran/fish-nvm) - Pure-fish Node.js version manager.
 - [fabioantunes/nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper with completions (see also [brigand/fast-nvm](https://github.com/brigand/fast-nvm-fish)).
 - [jbonjean/re-search](https://github.com/jbonjean/re-search) - More readline (or bash) like incremental history search.
+- [archmagees/swift-tab-completion](https://github.com/archmagees/swift-fish-completion) - Tab completion for swift package manager.
 
 ### Articles, tutorials, guides
 
@@ -66,5 +67,4 @@ Looking to get started with fish? [Try it in your browser](https://rootnroll.com
 <sup>[Back to top](#awesome-fish-) or [keep](https://github.com/topics/fish-shell) [exploring](https://github.com/topics/fish-packages) [on](https://github.com/topics/fish) [GitHub](https://github.com/topics/fish-prompt)</sup>
 
 <h2></h2>
-
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
